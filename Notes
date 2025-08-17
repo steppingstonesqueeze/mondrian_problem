@@ -1,0 +1,3 @@
+Not optimal yet -- this uses some simple number theory to get candidate partitions so that the search space explosion can be contained
+
+We get A feasible solution but not the optomal for which the defect is minimum. That is WIP.
