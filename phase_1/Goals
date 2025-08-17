@@ -1,0 +1,4 @@
+Verify code correctness via backtracking solves for N=3-6
+This is unoptimised and intended only for code correctness.
+
+NOTE : This method does not scale beyond N=7 or so due to the combinatorial explosion of possibilities
