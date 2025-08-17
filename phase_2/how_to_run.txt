@@ -1,0 +1,5 @@
+Rscript run_mondrian.R 
+
+# go in and change N - between 3-7 
+
+# note : Inefficient code so DO NOT GO ABOVE 7 :)
